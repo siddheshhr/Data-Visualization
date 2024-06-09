@@ -11,4 +11,5 @@ cd src
 npm install
 npm run dev
 
-![image](https://github.com/siddheshhr/Data-Visualization/assets/139670479/a2fbc4cc-44f0-40b7-9577-7c4a793c173d)
+![image](https://github.com/siddheshhr/Data-Visualization/assets/139670479/fb4dbcf3-8b6b-46dd-ac43-886426df5c51)
+
