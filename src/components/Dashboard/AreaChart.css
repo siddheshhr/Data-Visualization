@@ -1,0 +1,22 @@
+/* AreaChart.css */
+svg {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  path {
+    fill: rgba(173, 216, 230, 0.6);
+    stroke: #4682b4;
+    stroke-width: 2;
+  }
+  
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+  }
+  
+  .axis text {
+    font-size: 12px;
+  }
+  
